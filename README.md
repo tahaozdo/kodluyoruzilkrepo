@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-![ornekResim](codeP.jpg/frontend-code-1270w-9e88d9fb.jpeg)
+![ornekResim](code.jpeg)
 
 
 ### Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, Bir adet index.html barındırıyor
