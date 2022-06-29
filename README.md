@@ -1,5 +1,8 @@
 # kodluyoruzilkrepo
 
+![ornekResim](codeP.jpg/frontend-code-1270w-9e88d9fb.jpeg)
+
+
 ### Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, Bir adet index.html barındırıyor
 
 # Installation
@@ -28,5 +31,3 @@ code .
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-# Kodluyoruz Logo
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
